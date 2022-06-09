@@ -1,2 +1,2 @@
 # odin-recipes
-recipe page with no style at all
+Building a simple recipe page using HTML using concepts I have learned so far, including links, lists, and images.
